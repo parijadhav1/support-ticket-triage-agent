@@ -1,0 +1,11 @@
+ticket_id,subject,body
+T001,Charged twice for my order,"I was charged twice for the same order. Please refund the extra payment."
+T002,Cannot login,"I have been trying to log into my account but my password is not working."
+T003,Website crashing,"The website crashes every time I try to open my orders page."
+T004,Where is my order?,"My order was supposed to arrive three days ago and I still haven't received it."
+T005,Cancel subscription,"I want to cancel my subscription. Please tell me how."
+T006,Refund not received,"My refund was approved last week but I still don't see the money in my account."
+T007,Account hacked,"Someone has accessed my account without my permission. I can see activity that I did not perform."
+T008,How do I change my email?,"I want to update the email address associated with my account."
+T009,Payment failed,"I tried to pay for my order but the payment keeps failing."
+T010,General question,"What are your customer support hours?"

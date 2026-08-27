@@ -1,0 +1,11 @@
+ticket_id,subject,category,urgency,confidence,route,human_review,reason
+T001,Charged twice for my order,Billing,High,0.95,Payments Team,False,"The customer reports being charged twice for the same order, which indicates a money charged incorrectly issue that requires urgent resolution."
+T002,Cannot login,Account,High,0.85,Account Support,False,"The customer is experiencing a login issue, which is a high urgency problem related to account access."
+T003,Website crashing,Technical,High,0.85,Technical Support,False,"The customer is experiencing a major functionality issue with the website, specifically when trying to access their orders page."
+T004,Where is my order?,Orders,Medium,0.85,Order Support,False,"The customer is inquiring about a delayed order, which is a product/order problem."
+T005,Cancel subscription,Subscription,Low,0.95,Retention Team,False,"The customer is requesting information on how to cancel their subscription, which is a non-urgent request."
+T006,Refund not received,Billing,Medium,0.85,Payments Team,False,"The customer is experiencing a delay in receiving an approved refund, which falls under billing issues."
+T007,Account hacked,Account,Critical,0.95,Account Support,True,"The customer reports unauthorized access to their account, indicating a potential account takeover."
+T008,How do I change my email?,Account,Low,0.95,Account Support,False,The customer is asking a general how-to question about updating their email address associated with their account.
+T009,Payment failed,Billing,High,0.85,Payments Team,False,The customer is experiencing a payment failure which is affecting their ability to complete a purchase.
+T010,General question,Other,Low,0.95,General Support,False,"The customer is asking a general question about support hours, which is non-urgent."
